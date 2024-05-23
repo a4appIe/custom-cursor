@@ -1,1 +1,1 @@
-# An animated custom cursor for your website
+### An animated custom cursor for your website
